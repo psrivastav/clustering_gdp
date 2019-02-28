@@ -1,0 +1,18 @@
+#
+# This file is for NON-TESTING related DIRECT dependencies only.
+# 
+# Please add INDIRECT (transient) dependency overrides in:
+#    requirements.indirect.in
+# 
+# Please add dependencies for TESTING in:
+#    requirements.testing.in
+# 
+# To update requirements.txt, run:
+#
+#    tox -e pip-compile
+#
+
+common_waldo_gdp==3.2.24
+data_access_objects==0.0.53
+feature_engineering==0.0.2
+pandas==0.23.4

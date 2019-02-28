@@ -1,0 +1,9 @@
+#
+# This file is for TESTING related dependencies only.
+# 
+# To update requirements.txt, run:
+#
+#    tox -e pip-compile
+#
+
+sparkly==2.4.1

@@ -1,0 +1,18 @@
+#
+# This file lists dependencies for initializing a new virtualenv.
+#
+
+
+#
+# GDP dependencies
+#
+gdpsetuptools
+
+
+#
+# Environment management dependencies
+#
+pip==19.0.1
+pip-tools==3.3.2
+pipdeptree==0.13.1 
+tox==3.7.0

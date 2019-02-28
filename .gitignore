@@ -1,0 +1,58 @@
+# Apache
+derby.log
+metastore_db/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+.installed.cfg
+.Python
+build/
+eggs/
+env/
+develop-eggs/
+dist/
+lib/
+lib64/
+parts/
+python_dist/
+sdist/
+var/
+version.info
+
+# Gradle stuff
+.gradle/*
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IntelliJ IDEA 15
+*.iml
+.idea/
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# OSX metafiles
+.DS_Store
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+.hypothesis/
+.pytest_cache
+coverage.xml
+htmlcov/
+nosetests.xml
+
+# Vim swap files
+*.swp
+
+# VScode
+.vscode/

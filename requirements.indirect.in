@@ -1,0 +1,17 @@
+#
+# This file is for INDIRECT (transient) dependency overrides only.
+# These packages should not be imported in your Python code.
+# 
+# Please add DIRECT dependencies in:
+#    requirements.direct.in
+# 
+# Please add dependencies for TESTING in:
+#    requirements.testing.in
+# 
+# To update requirements.txt, run:
+#
+#    tox -e pip-compile
+#
+
+cython==0.29.2
+numpy==1.16.0

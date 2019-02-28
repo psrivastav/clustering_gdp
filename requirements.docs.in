@@ -1,0 +1,10 @@
+#
+# Requirements file for Read-the-Docs doc generation
+# 
+# To update requirements.txt, run:
+#
+#    tox -e pip-compile
+#
+
+Sphinx==1.8.3
+sphinx_rtd_theme==0.1.9
